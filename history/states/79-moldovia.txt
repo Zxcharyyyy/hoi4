@@ -1,0 +1,39 @@
+state=
+{
+	id=79
+	name="STATE_79"
+	manpower = 2806400
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = ATN
+		buildings = {
+			infrastructure = 8
+			arms_factory = 60
+			industrial_complex = 60
+			dockyard = 60
+			air_base = 3
+			3314 = {
+				naval_base = 5
+
+			}
+			9498 = {
+				naval_base = 10
+
+			}
+
+		}
+		victory_points = {
+			9716 1 
+		}
+		victory_points = {
+			6706 1 
+		}
+		add_core_of = ATN
+	}
+	provinces=
+	{
+723 744 3728 3741 6584 6706 6729 6747 6761 9701 9716 11534 11652 11655 11672 11689 	}
+}

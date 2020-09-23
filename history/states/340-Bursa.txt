@@ -1,0 +1,33 @@
+
+state={
+	id=340
+	name="STATE_340"
+	manpower = 1026527
+	resources={
+		chromium=39 # was: 54
+	}
+
+	state_category = town
+
+	history={
+			owner = AHM
+			infrastructure = 8
+			arms_factory = 60
+			industrial_complex = 60
+			dockyard = 60
+			air_base = 3
+			3314 = {
+				naval_base = 5
+
+			}
+			9498 = {
+				naval_base = 10
+
+			}
+
+		}
+
+	provinces={
+		785 947 3786 3851 6864 6912 9799 9887 11778 11867 
+	}
+}

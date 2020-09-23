@@ -1,0 +1,28 @@
+state=
+{
+	id=8
+	name="STATE_8"
+	
+	state_category = megalopolis
+	
+	manpower = 294748
+	resources={
+		steel=5 # was: 8
+	}
+
+	history=
+	{
+		owner = EMI
+		buildings = {
+			infrastructure = 70
+			arms_factory = 70
+			industrial_complex = 3
+		}
+		victory_points = { 6583 5 }
+		add_core_of = EMI
+	}
+
+	provinces=
+	{
+6583 	}
+}

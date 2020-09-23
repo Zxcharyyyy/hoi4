@@ -1,0 +1,41 @@
+
+state={
+	id=192
+	name="STATE_192"
+	manpower = 1469986
+	
+	state_category = city
+
+	history={
+		owner = ATN
+		victory_points = {
+			11670 10 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 60
+			industrial_complex = 60
+			dockyard = 60
+			air_base = 3
+			3314 = {
+				naval_base = 5
+
+			}
+			9498 = {
+				naval_base = 10
+
+			}
+
+		}
+		add_core_of = ATN
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 60
+			}
+		}
+	}
+
+	provinces={
+		741 754 3575 3738 3757 9698 9714 11670 11703 
+	}
+}

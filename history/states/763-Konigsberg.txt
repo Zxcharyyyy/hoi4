@@ -1,0 +1,43 @@
+
+state={
+	id=763
+	name="STATE_763"
+	manpower = 2140234
+	state_category = city
+
+	history={
+		owner = DHO
+		controller = DHO
+		
+		victory_points = {
+			6332 10 
+		}
+
+		buildings = {
+			infrastructure = 8
+			arms_factory = 60
+			industrial_complex = 60
+			dockyard = 60
+			air_base = 3
+			3314 = {
+				naval_base = 5
+
+			}
+			9498 = {
+				naval_base = 10
+
+			}
+
+		}
+		add_core_of = DHO
+		1939.1.1 = {
+			buildings = {
+				anti_air_building = 5
+			}
+		}
+	}
+
+	provinces={
+		281 348 395 3384 6332 11265
+	}
+}

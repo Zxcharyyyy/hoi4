@@ -1,2 +1,1 @@
-#Commune Mod for Hearts of Iron IV
-
+Commune Mod for Hearts of Iron IV
